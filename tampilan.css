@@ -1,0 +1,25 @@
+body
+{
+	 background:rgba(0,0,0,0.1);
+}
+.wrapper
+{
+	border: 4px;
+    border-radius: 10px;
+    padding:10px;
+    margin-left:70px;
+    margin-right: 70px;
+    background: white;
+}
+.login
+{
+	width: 35%;
+	margin-left: 775px;
+}
+.tombolLogin{
+	margin-left: 325px;
+	margin-top: 5px;
+}
+.wrapper2{
+	background: rgba(0,0,0,0.1);
+}
